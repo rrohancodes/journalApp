@@ -17,8 +17,7 @@ public class JournalEntry {
     private String content;
 
     private LocalDateTime date;
-
-
+    
     public LocalDateTime getDate() {
         return date;
     }
